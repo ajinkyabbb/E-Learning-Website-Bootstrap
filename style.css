@@ -693,7 +693,9 @@ p {
 }
 
 .pricing-card {
-  width: 20rem;
+/*   width: 20rem; */
+  height:100%;
+  width:100%;
 }
 
 .socia-bottom {
